@@ -1,5 +1,5 @@
 # http-to-websocket 
-![](http://tcg-public-read1.oss.dazhangkeji.com/github/http-to-websocket/%E6%B5%81%E7%A8%8B%E8%AE%BE%E8%AE%A1.jpg)
+![img](https://tcg-public-read1.oss.dazhangkeji.com/github/http-to-websocket/%E6%B5%81%E7%A8%8B%E8%AE%BE%E8%AE%A1.jpg)
 - 适合**封闭的**socket系统与**封闭的**http系统的信息通讯、信息处理
 - Suitable for information communication and information processing between closed socket system and closed http system
 ####
