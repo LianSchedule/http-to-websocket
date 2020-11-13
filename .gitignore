@@ -10,3 +10,12 @@ forLinux/
 ~$手册windows server 2012 R2.docx
 forWindows/
 宝塔面板.zip
+test.php 
+demo/.browserslistrc
+demo/.gitignore
+demo/babel.config.js
+demo/package.json
+demo/package-lock.json
+demo/README.md
+demo/public/
+demo/src/
