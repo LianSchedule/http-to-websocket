@@ -1,16 +1,12 @@
-流程设计.vsdx
-部署手册.docx
-for windows/
-for linux/
-流程设计.jpg
-.idea/
-部署手册linux-centos.docx
-forLinux/
-部署手册windows server 2012 R2.docx
-~$手册windows server 2012 R2.docx
-forWindows/
+ReadMeForDemo.md
+test.php
 宝塔面板.zip
-test.php 
+部署手册.docx
+部署手册linux-centos.docx
+部署手册windows server 2012 R2.docx
+流程设计.jpg
+流程设计.vsdx
+.idea/
 demo/.browserslistrc
 demo/.gitignore
 demo/babel.config.js
@@ -19,3 +15,5 @@ demo/package-lock.json
 demo/README.md
 demo/public/
 demo/src/
+forLinux/
+forWindows/
